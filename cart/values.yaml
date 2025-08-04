@@ -1,0 +1,6 @@
+deployment:
+  imageURL: iamrams/cart
+  imageVersion: v1
+hpa:
+  replicas: 10
+  cpuUtilization: 75
