@@ -1,0 +1,2 @@
+statefulset:
+  imageVersion: 7.0
